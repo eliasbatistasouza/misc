@@ -12,7 +12,7 @@ A collection of fun personal projects and scripts.
 A simulation of what hanppens to the mean and median on a set of data when outliers are added. This animation can help us understand why sometimes the median is a better representation of certain datasets.
 
 <div align="center">
-
+https://github.com/eliasbatistasouza/misc/assets/8121717/dccc3f58-3a34-4579-9d58-4e3c509dbcb5
 </div>
 
 ## [Galton Board](./galton_board/)
